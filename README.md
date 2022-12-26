@@ -6,7 +6,7 @@
 [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCMptTtQsfdbnddrMcTMRMGsFgFTbcbbGlDcgzzQkFFKqTJKZMKxNjnJgxkwBjXZSpjvSM),
 [LinkedIn](https://www.linkedin.com/in/hari-haran-5b568a231/)
 
-- <strong>🌟Inspired Quote</strong> &nbsp <i>You can do anything when you set your mind to</i>
+- <strong>🌟Inspired Quote</strong> &nbsp; <i>You can do anything when you set your mind to</i>
 
 
 <!---
