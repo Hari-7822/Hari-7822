@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Howdy! 👋
 
 I'm Hari, a passionate developer based in Chennai, Tamil Nadu. I love to code and explore new tools and techn.
 
