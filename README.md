@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Planting and fixing bugs since 2021<br>📚 I'm currently learning SpringBoot,  C# and shell Scripting<br>🎯 Goals: Being limitless and kind<br>🎲 A legend once said: A wise man neither rejoices in gain nor grieves in loss.</p>
+<p align="left">✨ Planting and fixing bugs since 2021<br>📚 I'm currently learning SpringBoot, C#, nvim and shell Scripting<br>🎯 Goals: Being limitless and kind<br>🎲 A legend once said: A wise man neither rejoices in gain nor grieves in loss.</p>
 
 ###
 
